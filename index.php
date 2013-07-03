@@ -15,12 +15,12 @@ mobile_device_detect(true, true, true, false, false, false, false, "http://radio
         <title></title>
         <link rel="stylesheet" href="css/jquery.mobile-1.3.1.css">
         <!-- Extra Codiqa features -->
-        <link rel="stylesheet" href="codiqa.ext.css">
+        <link rel="stylesheet" href="css/codiqa.ext.css">
         <!-- jQuery and jQuery Mobile -->
         <script src="https://d10ajoocuyu32n.cloudfront.net/jquery-1.9.1.min.js"></script>
         <script src="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
         <!-- Extra Codiqa features -->
-        <script src="codiqa.ext.js"></script>
+        <script src="js/codiqa.ext.js"></script>
     </head>
     <body>
         <!-- Home -->
@@ -32,7 +32,7 @@ mobile_device_detect(true, true, true, false, false, false, false, "http://radio
                     <li><a href="#">Chat</a></li>
                     <li><a href="#">Locutores</a></li>
                     <li><a href="#">Publicidade</a></li>
-                    <li><a href="#/">Programação</a></li>
+                    <li><a href="#">Programação</a></li>
                     <li><a href="#">Contato</a></li>
                     <li><a href="#">Sobre</a></li>
                     <li><a href="#my-header" data-rel="close" data-icon="close">Fechar</a></li>
